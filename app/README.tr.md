@@ -110,4 +110,9 @@ Bu proje MIT Lisansı ile lisanslanmıştır.
 
 ---
 
+Aşağıdaki linkte uygulamamızın bir demo videosunu bulabilirsiniz:
+https://www.youtube.com/watch?v=CcJGd2CVfY8
+
+---
+
 Her türlü katkı ve geri bildirim memnuniyetle karşılanır 🙌
